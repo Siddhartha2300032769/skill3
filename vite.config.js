@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/skill_3/'
+  base: '/skill3/'
 });
